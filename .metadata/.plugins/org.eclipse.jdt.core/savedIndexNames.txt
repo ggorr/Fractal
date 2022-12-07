@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\kpark\Documents\Program\Java\Fractals\Ver9\.metadata\.plugins\org.eclipse.jdt.core
-4031158819.index
-1448931127.index
